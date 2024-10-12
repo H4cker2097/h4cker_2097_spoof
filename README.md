@@ -46,10 +46,43 @@ If installed , pip install {name}
 ## Install :
 
 ```
-git clone https://github.com/esfelurm/Reporter-Telegram
-cd Reporter-Telegram
-python main.py
+
+apt update
+
 ```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+
+
+
 ### this 
 
 Goodbye my friends 
