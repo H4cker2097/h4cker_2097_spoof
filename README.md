@@ -77,6 +77,13 @@ apt install git -y
 git clone https://github.com/H4cker2097/h4cker_2097_spoof.git
 ```
 
+```
+cd h4cker_2097_spoof
+```
+
+```
+python h4cker_2097_spoof.py
+```
 
 
 
