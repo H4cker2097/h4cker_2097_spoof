@@ -2,7 +2,7 @@
 ### A powerful tool for SPOOFING  ⚠️
 
 ### Menu :
-<img src="/report/main.png">
+<img src="spoofing_tools/1.png">
 
 #### This tool uses the following methods spoof :
 * call 🔆
