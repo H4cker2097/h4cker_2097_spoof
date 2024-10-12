@@ -10,7 +10,7 @@
 * sms 🔆
 
 ### CALL SPOOFING
-<img src="/report/1.png">
+<img src="spoofing_tools/1.png">
 
 ### EMAIL SPOOFING
 <img src="/report/2.png">
