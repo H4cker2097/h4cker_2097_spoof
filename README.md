@@ -46,38 +46,35 @@ If installed , pip install {name}
 ## Install :
 
 ```
-
 apt update
-
 ```
 
 ```
-
+pkg upgrade
 ```
 
 ```
-
+pkg install python
 ```
 
 ```
-
+pkg update && pkg upgrade -y
 ```
 
 ```
-
-```
-
-
+pkg install -y git python
 ```
 
 ```
-
+pkg install python3 -y
 ```
 
 ```
-
+apt install git -y
 ```
 
+```
+git clone https://github.com/H4cker2097/h4cker_2097_spoof.git
 ```
 
 
