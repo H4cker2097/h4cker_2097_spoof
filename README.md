@@ -13,7 +13,7 @@
 <img src="spoofing_tools/1.png">
 
 ### EMAIL SPOOFING
-<img src="/report/2.png">
+<img src="spoofing_tools/email_spoofing.py">
 
 ### Report SMS [updating]
 - It is currently being updated
